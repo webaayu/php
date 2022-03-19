@@ -29,7 +29,7 @@
         <tr><td><span id="rd" class="valid"></span></td></tr>
         <tr><td>Hobbies<span id="italic">(optional)</span></td></tr>
         <tr><td style="border:1px solid gray" id="flexx"><input type="checkbox">Sports<input type="checkbox">Movies<input type="checkbox">Music
-        <tr><td><button type="submit" class="inpt1" id="sub" value="submit" name="submit">Submit</button></td></tr>
+        <tr><td><button type="submit" class="inpt" id="sub" value="submit" name="submit">Submit</button></td></tr>
        
     </table>
 </form>
